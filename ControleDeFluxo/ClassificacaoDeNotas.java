@@ -24,7 +24,7 @@ public class ClassificacaoDeNotas {
         }else{
             System.out.println("Reprovado");
         }
-
+ 
         scanner.close();
     }
     
