@@ -18,7 +18,9 @@ public class VerificacaoDeMaioridade {
         if (idadeDigitadaPeloUsuario >= 18 &&  idadeDigitadaPeloUsuario < 60) {
             System.out.println("Essa pessoa é maior de idade!");
         }else if(idadeDigitadaPeloUsuario < 18){
-            System.out.println("Essa pessoa é menor de idade!");
+            System.out.println("Essa pessoa é menor de idade!"
+                
+            );
         }else{
             System.out.println("Essa pessoa é idosa");
         }
