@@ -25,6 +25,7 @@ public class MediaDeNumeros {
         int media = soma / 5;
 
         System.out.println();
+        System.out.println();
 
         System.out.println(soma);
         System.out.println(media);
