@@ -14,7 +14,7 @@ public class ValoresParesEmUmArray {
         Scanner scanner = new Scanner(System.in);
 
         int[] numeros = new int[8];
-        int[] pares;
+        
 
         for (int i = 0; i < numeros.length; i++) {
             System.out.println("Digite um número inteiro : " + (i + 1) + ": ");

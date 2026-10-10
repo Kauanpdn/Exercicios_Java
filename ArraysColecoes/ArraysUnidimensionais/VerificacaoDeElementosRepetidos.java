@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
     EXERCÍCIO 76
-Enunciado: Escreva um programa que leia 10 números inteiros e verifique se algum valor é
+Enuncia67do: Escreva um programa que leia 10 números inteiros e verifique se algum valor é
 repetido no array. Se houver repetições, exiba uma mensagem informando.
 
 */
